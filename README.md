@@ -1,2 +1,2 @@
 #!/bin/bash
-second shell task
+task number 1 ,where am i
