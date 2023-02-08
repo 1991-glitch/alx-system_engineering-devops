@@ -1,2 +1,2 @@
 #!/bin/bash
-whats in there?
+There is no place like home
