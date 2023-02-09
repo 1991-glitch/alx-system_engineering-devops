@@ -1,1 +1,1 @@
-chmod -- reference = olleh hello sets the mode of the file hello the same as olles mode
+chmod -R ugo + X . to add  executive permission to sub dir of the current dir for the owner group owner and all other users
