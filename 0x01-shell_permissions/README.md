@@ -1,1 +1,1 @@
-chmod u+x hello adds execute permission to the owner of the file hello
+id prints the effective username of the current user
