@@ -1,1 +1,1 @@
-chgrp school hello changes the group owner to school for the file hello
+id prints the effective username of the current user
