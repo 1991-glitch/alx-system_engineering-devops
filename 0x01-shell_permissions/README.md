@@ -1,1 +1,1 @@
-chmod a+x adds executive permission to the owner the group owner and the other users to the file hello
+chmod 007 hello sets the permission to the file hello to the other users only
