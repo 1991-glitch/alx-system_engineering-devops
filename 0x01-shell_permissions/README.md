@@ -1,2 +1,1 @@
-#!/bin/bash
-id printd the effective username of the current user
+group prints all the groups the current user is part of
