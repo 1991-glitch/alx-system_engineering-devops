@@ -1,2 +1,2 @@
 #!/bin/bash
-who am i
+id printd the effective username of the current user
