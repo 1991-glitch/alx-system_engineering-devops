@@ -1,1 +1,1 @@
-change working dir to the previous one
+list all the files
