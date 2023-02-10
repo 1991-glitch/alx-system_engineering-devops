@@ -1,1 +1,1 @@
-creates a dir named first dir in the tmp dir
+Move the file betty from /tmp/ to /tmp/my_first_directory
