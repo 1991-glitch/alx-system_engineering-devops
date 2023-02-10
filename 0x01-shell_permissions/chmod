@@ -1,0 +1,1 @@
+chmod -R ugo+X . -R ugo+X .
