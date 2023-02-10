@@ -1,1 +1,1 @@
-display current directory contents in long format with user and group id and hidden files
+creates a dir named first dir in the tmp dir
