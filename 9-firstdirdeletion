@@ -1,0 +1,3 @@
+[master 3d49a76] bye bye my first directory
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+ create mode 100755 0x00-shell_basics/9-firstdirdeletion
