@@ -1,1 +1,1 @@
-duplicate the last line of iacta
+delete all the regulae files with a js
