@@ -1,1 +1,1 @@
-display the third line of the file iacta
+create a file named exactly best school
