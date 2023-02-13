@@ -1,1 +1,1 @@
-display the contents of 2 files
+display the last 10 lines of etc/passwd
