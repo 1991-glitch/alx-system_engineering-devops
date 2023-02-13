@@ -1,1 +1,1 @@
-create a file named exactly best school
+writes a files content into another file
