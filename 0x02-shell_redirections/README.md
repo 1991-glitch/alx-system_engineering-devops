@@ -1,1 +1,1 @@
- takes a list of words as input and prints only words that appear exactly once
+display line containing the pattern root from file etc/passwd
